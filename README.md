@@ -1,8 +1,10 @@
 # CR0W-batchmultitool
-# Crow-batch-multi-tool
 developer : SQUISHY
 cord : S Q U I S H Y#7791
 date : 3/20/22
+
+YOU MUST KEEP ALL THE FILES IN THE SAME PLACE! 
+you can make a shortcut to crow.bat but you must keep the files in the same place or it will bot work!!!!!! run crow.bat to start it...
 
 A hacking multi tool coded in batch
  
